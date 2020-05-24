@@ -1,0 +1,11 @@
+2020-05-23 21:16:39,701 WARN  [SoapUI] Missing folder [C:\Users\emrba\eclipse-workspace\SoapUIP\ext] for external libraries
+2020-05-23 21:16:40,096 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\emrba\soapui-settings.xml]
+2020-05-23 21:16:43,012 INFO  [PluginManager] 0 plugins loaded in 4 ms
+2020-05-23 21:16:43,012 INFO  [DefaultSoapUICore] All plugins loaded
+2020-05-23 21:16:44,800 INFO  [WsdlProject] Loaded project from [file:/C:/Users/emrba/OneDrive/Belgeler/EmployeeAutomationWithGroovyScript.xml]
+2020-05-23 21:16:47,208 INFO  [log] mike1
+2020-05-23 21:16:47,209 INFO  [log] mike1
+2020-05-23 21:16:47,653 INFO  [WsdlProject] Loaded project from [file:/C:/Users/emrba/OneDrive/Belgeler/Framework_REST_Project.xml]
+2020-05-23 21:16:49,317 INFO  [WsdlProject] Loaded project from [file:/C:/Users/emrba/OneDrive/Belgeler/EmployeeAutomationWithGroovyScript.xml]
+2020-05-23 21:16:49,599 INFO  [WsdlProject] Loaded project from [file:/C:/Users/emrba/OneDrive/Belgeler/Framework_REST_ProjectMultipleTestSuites.xml]
+2020-05-23 21:16:50,801 INFO  [log] second test suite

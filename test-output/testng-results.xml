@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-24T01:16:38Z" name="Suite" finished-at="2020-05-24T01:16:50Z" duration-ms="11851">
+    <groups>
+    </groups>
+    <test started-at="2020-05-24T01:16:38Z" name="Test" finished-at="2020-05-24T01:16:50Z" duration-ms="11851">
+      <class name="soapuipackage.SOAP_RunIndividualTestCaseWithTestNG">
+        <test-method signature="runIndividualTestCase()[pri:0, instance:soapuipackage.SOAP_RunIndividualTestCaseWithTestNG@4bf48f6]" started-at="2020-05-24T01:16:49Z" name="runIndividualTestCase" finished-at="2020-05-24T01:16:49Z" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runIndividualTestCase -->
+      </class> <!-- soapuipackage.SOAP_RunIndividualTestCaseWithTestNG -->
+      <class name="soapuipackage.REST_RunAllTestCasesWithTestNG">
+        <test-method signature="runAllTests()[pri:0, instance:soapuipackage.REST_RunAllTestCasesWithTestNG@2fba3fc4]" started-at="2020-05-24T01:16:47Z" name="runAllTests" finished-at="2020-05-24T01:16:49Z" duration-ms="1845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runAllTests -->
+      </class> <!-- soapuipackage.REST_RunAllTestCasesWithTestNG -->
+      <class name="soapuipackage.SOAP_RunAllTestCasesWithTestNG">
+        <test-method signature="runTestSuite()[pri:0, instance:soapuipackage.SOAP_RunAllTestCasesWithTestNG@12299890]" started-at="2020-05-24T01:16:38Z" name="runTestSuite" finished-at="2020-05-24T01:16:47Z" duration-ms="8469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTestSuite -->
+      </class> <!-- soapuipackage.SOAP_RunAllTestCasesWithTestNG -->
+      <class name="soapuipackage.REST_MultipleTestSuites">
+        <test-method signature="runAllTests()[pri:0, instance:soapuipackage.REST_MultipleTestSuites@420a85c4]" started-at="2020-05-24T01:16:49Z" name="runAllTests" finished-at="2020-05-24T01:16:50Z" duration-ms="1219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runAllTests -->
+      </class> <!-- soapuipackage.REST_MultipleTestSuites -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
